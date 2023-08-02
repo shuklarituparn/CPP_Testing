@@ -1,2 +1,2 @@
 # CPP_Testing
-Tests using Google's Test Framework
+C++ Tests that I wrote using Google's Test Framework
